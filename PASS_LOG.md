@@ -1,12 +1,11 @@
 # PASS_LOG · newest first · America/New_York
 
-### PASS #2 — 2026-09-11 ~08:50 ET · Systems × Seer OS
-- **Before:** vault had only a one-line probe README.
-- **After:** VISION, GARDEN, LOOP, PASS_LOG on main. Equal-weight Garden is the canon in-repo.
-- **Delta:** Production files a neighbor can walk. Music is one door, not the center.
-- **Next:** Flesh the least-reviewed idea. Do not silent-rewrite Pages.
+### PASS #3 — 2026-09-11 ~08:56 ET · Systems × pickup
+- **After:** `CLAUDE.md` + `PASTE.md` on Rsee so another model can load the desk without the App Builder preview.
+- **Next:** Claude fetches §2, then fleshes Seer OS / Consulting / Install (least-reviewed, not guitar).
 
-### PASS #1 — 2026-09-11 08:49 ET · Systems × Rsee vault
-- **Production:** commit `3fb0c939c69e1197a71a8186c8cdb5e06fbf3e59`
-- **Before:** empty (409) + all-night 403
-- **After:** write path live. Pages untouched.
+### PASS #2 — ~08:50 ET · `55a19178`
+VISION, GARDEN, LOOP, README. Equal-weight Garden on main.
+
+### PASS #1 — 08:49 ET · `3fb0c939`
+First write. Vault not empty.
