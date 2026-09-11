@@ -1,6 +1,11 @@
 # START HERE — next model
-Public-safe. Kennesaw, GA. Vault: cooldad777/Rsee as of 4697b7d + this commit.
+Public-safe. Kennesaw, GA. Vault: cooldad777/Rsee.
 
-Read: process/WHAT_HAPPENED.md → process/LOOP_V2.md → agents/ROSTER.md → agents/installer.md
-Then ASSIGN pass #5 SEER Install. Write ideas/seer-install.md. No stub NEXT.
-Pages read-only. Do not invent see-r-os.
+Read: GARDEN.md → PASS_LOG.md → ideas/seer-install.md → ideas/seer-consulting.md → ideas/open-fruit.md
+
+Pass #5 (Fable): `ideas/seer-install.md` ingested.
+Pass #6: Open Fruit planted (splash + issue #1).
+Pass #7: `ideas/seer-consulting.md`.
+
+Next: ASSIGN least-reviewed fruit still without a file (Project Naming Frame or Universal Markdown Doctrine). No stub NEXT.
+Pages: hub + `/open-fruit/` only extra door. Do not invent see-r-os.

@@ -4,8 +4,8 @@ Every door below gets the same edit budget. Music shipped first; that is history
 ## Fruit
 - Project Naming Frame
 - Universal Markdown Doctrine
-- SEER Consulting
-- SEER Install
+- SEER Consulting — last reviewed 2026-09-11 · pass #7 · `ideas/seer-consulting.md`
+- SEER Install — last reviewed 2026-09-11 · pass #5 · `ideas/seer-install.md`
 - GROUNDED
 - Anti-Attachment
 - Fretboard Fire Drill
