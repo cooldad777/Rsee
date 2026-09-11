@@ -17,6 +17,7 @@ Every door below gets the same edit budget. Music shipped first; that is history
 - Adventure Within
 
 ## Seed
+- **Open Fruit** — planted 2026-09-11 · pass #6 · `ideas/open-fruit.md` · one-button intake
 - Thinking flowcharts
 - Layered Lenses
 - Open-LLM orientation
@@ -26,4 +27,4 @@ Every door below gets the same edit budget. Music shipped first; that is history
 - Return to Pitch / Seer Loop (process)
 - Rsee vault (process)
 
-Flesh out always picks the **least-reviewed** idea still in the pool.
+Flesh out always picks the **least-reviewed** idea still in the pool. New SEEDs arrive as GitHub issues titled `SEED:`.
