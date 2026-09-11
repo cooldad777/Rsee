@@ -12,7 +12,7 @@ Every door below gets the same edit budget. Music shipped first; that is history
 - Five grains (GRAIN)
 
 ## Sapling
-- Seer (personal OS)
+- Seer (personal OS) — last reviewed 2026-09-11 · pass #4 · `ideas/seer-personal-os.md`
 - Digital Pensieve
 - Adventure Within
 
