@@ -1,5 +1,11 @@
 # PASS_LOG · newest first · America/New_York
 
+### PASS #8 — 2026-09-15 ~21:40 ET · Content+Profit+Hybrid × seer-solutions
+- **Before:** Consulting and Install have files. Naming frame / LOCKS do not list Solutions. Pages already prints SEER Solutions as hub nav and `/solutions/` H1. `/consulting/` redirects. Thoughts lived in Pages HTML + garden consulting HTML + VISION_NODES. No `ideas/seer-solutions.md`.
+- **After:** `ideas/seer-solutions.md` — proposed umbrella; two named doors; three-practice speech mapped onto those doors; lock-change pending; Pages not rewritten.
+- **KPI:** fifth idea file; arm talkable without renaming the lock.
+- **Next (CoS):** Ryan affirms or refuses the lock-change. Wander default remains least-reviewed fruit without a file (Naming Frame or Markdown doctrine).
+
 ### PASS #7 — 2026-09-11 ~12:45 ET · Counsel × seer-consulting
 - **Before:** Consulting named in LOCKS / Pages door. Fruit, no `ideas/` file. Boundary drawn in Install #5.
 - **After:** `ideas/seer-consulting.md` — human counsel, analytics inside the work, hour-or-question, hybrid vs Install / Seer / Open Fruit.

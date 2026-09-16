@@ -12,6 +12,7 @@ Every door below gets the same edit budget. Music shipped first; that is history
 - Five grains (GRAIN)
 
 ## Sapling
+- **SEER Solutions** — planted 2026-09-15 · pass #8 · `ideas/seer-solutions.md` · proposed umbrella; not fruit until lock affirmed
 - Seer (personal OS) — last reviewed 2026-09-11 · pass #4 · `ideas/seer-personal-os.md`
 - Digital Pensieve
 - Adventure Within
